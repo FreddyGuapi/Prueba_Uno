@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492934307616",
+    "project_id": "riasproject-ca344",
+    "storage_bucket": "riasproject-ca344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492934307616:android:33549842f91e0f4ba60145",
+        "android_client_info": {
+          "package_name": "com.riasproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492934307616-47v0de0np1f9hvvhdhffahei8212o8vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_bn-0r9Nbzom1MDZyDh6x4vxT04nJb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492934307616-47v0de0np1f9hvvhdhffahei8212o8vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
